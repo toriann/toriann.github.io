@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css?family="Tangerine");
+body {
+	header {
+    background-color: [blue];
+    border: 1px black solid;
+    padding: 20px;
+}
+	background-color: blue;
+	border: 3px solid black;
+	margin: 16px;
+	padding: 23px;
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+}
+img {
+	border: 3px solid black;
+	border-left: solid;black;
+}
